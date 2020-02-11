@@ -1,0 +1,1 @@
+print('accuracy',30/33*100)
